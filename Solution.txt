@@ -1,0 +1,18 @@
+1. git init
+2. git add temp.txt
+3. git commit -m "temp.txt committed"
+4. git checkout -b Dev
+5. git add 1.txt
+6. git commit -m "1.txt committed"
+7. git checkout master
+8. git checkout -b Test
+9. git add 2.txt 3.txt
+10. git commit -m "2.txt and 3.txt committed"
+11. git checkout master
+12. git status
+13. git log
+14. git merge Dev
+15. git merge Test
+16. git remote origin https://.......................
+17. git push -u origin master
+18. git clone https://...............................
